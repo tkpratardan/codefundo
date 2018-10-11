@@ -12,8 +12,7 @@ Users can directly install it like any other IoT connectivity which is quite eas
 Technologies:
 IoTivity, GPS and programming on java platform.
 
-Datasets:
-Input from the end nodes will be taken.
+
 
 
 
